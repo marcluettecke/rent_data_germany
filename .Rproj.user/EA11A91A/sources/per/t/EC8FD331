@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575051970686.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1740411614",
+    "id" : "EC8FD331",
+    "lastKnownWriteTime" : 1578989061,
+    "last_content_update" : 1578989062174,
+    "path" : "~/Dokumente/Uni Konstanz/WS 2019/CSS/Purchasing_power/map_visualization.R",
+    "project_path" : "map_visualization.R",
+    "properties" : {
+        "cursorPosition" : "445,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

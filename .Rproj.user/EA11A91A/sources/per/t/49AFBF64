@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578654141049.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49AFBF64",
+    "lastKnownWriteTime" : 6875989896556998245,
+    "last_content_update" : 1578654141049,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7F1A7045",
+        "caption" : "rent_all_daily",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=rent_all_daily&cache_key=7F1A7045",
+        "displayedObservations" : 67,
+        "environment" : "",
+        "object" : "rent_all_daily",
+        "preview" : 0,
+        "totalObservations" : 67,
+        "variables" : 9
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

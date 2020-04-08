@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578924633108.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E5B82EA0",
+    "lastKnownWriteTime" : 3421168231785918063,
+    "last_content_update" : 1578924633108,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "98ABF323",
+        "caption" : "econ_df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=econ_df&cache_key=98ABF323",
+        "displayedObservations" : "14",
+        "environment" : "",
+        "object" : "econ_df",
+        "preview" : "0",
+        "totalObservations" : "14",
+        "variables" : "10"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

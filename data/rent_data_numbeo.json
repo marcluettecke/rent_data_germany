@@ -1,0 +1,470 @@
+{
+  "Aachen": {
+    "one_room_city_center": 522,
+    "one_room_outside": 411,
+    "three_rooms_city_center": 1035,
+    "three_rooms_outside": 807
+  },
+  "Aalen": {
+    "one_room_city_center": 500,
+    "one_room_outside": 400,
+    "three_rooms_city_center": 825,
+    "three_rooms_outside": 500
+  },
+  "Aschaffenburg": {
+    "one_room_city_center": 666,
+    "one_room_outside": 533,
+    "three_rooms_city_center": 1033,
+    "three_rooms_outside": 950
+  },
+  "Augsburg": {
+    "one_room_city_center": 749,
+    "one_room_outside": 492,
+    "three_rooms_city_center": 1318,
+    "three_rooms_outside": 1043
+  },
+  "Bamberg": {
+    "one_room_city_center": 750,
+    "one_room_outside": 537,
+    "three_rooms_city_center": 1187,
+    "three_rooms_outside": 975
+  },
+  "Bayreuth": {
+    "one_room_city_center": 350,
+    "one_room_outside": 250,
+    "three_rooms_city_center": 870,
+    "three_rooms_outside": 650
+  },
+  "Berlin": {
+    "one_room_city_center": 880,
+    "one_room_outside": 645,
+    "three_rooms_city_center": 1693,
+    "three_rooms_outside": 1187
+  },
+  "Bielefeld": {
+    "one_room_city_center": 500,
+    "one_room_outside": 412,
+    "three_rooms_city_center": 800,
+    "three_rooms_outside": 675
+  },
+  "Bochum": {
+    "one_room_city_center": 471,
+    "one_room_outside": 373,
+    "three_rooms_city_center": 800,
+    "three_rooms_outside": 650
+  },
+  "Bonn": {
+    "one_room_city_center": 740,
+    "one_room_outside": 549,
+    "three_rooms_city_center": 1409,
+    "three_rooms_outside": 1027
+  },
+  "Braunschweig": {
+    "one_room_city_center": 654,
+    "one_room_outside": 456,
+    "three_rooms_city_center": 1050,
+    "three_rooms_outside": 811
+  },
+  "Bremen": {
+    "one_room_city_center": 553,
+    "one_room_outside": 462,
+    "three_rooms_city_center": 1181,
+    "three_rooms_outside": 733
+  },
+  "Chemnitz": {
+    "one_room_city_center": 374,
+    "one_room_outside": 330,
+    "three_rooms_city_center": 750,
+    "three_rooms_outside": 675
+  },
+  "Koeln": {
+    "one_room_city_center": 752,
+    "one_room_outside": 542,
+    "three_rooms_city_center": 1420,
+    "three_rooms_outside": 1016
+  },
+  "Darmstadt": {
+    "one_room_city_center": 736,
+    "one_room_outside": 583,
+    "three_rooms_city_center": 1500,
+    "three_rooms_outside": 1117
+  },
+  "Dessau": {
+    "one_room_city_center": 300,
+    "one_room_outside": 240,
+    "three_rooms_city_center": 525,
+    "three_rooms_outside": 400
+  },
+  "Dortmund": {
+    "one_room_city_center": 610,
+    "one_room_outside": 425,
+    "three_rooms_city_center": 1005,
+    "three_rooms_outside": 660
+  },
+  "Dresden": {
+    "one_room_city_center": 550,
+    "one_room_outside": 438,
+    "three_rooms_city_center": 1242,
+    "three_rooms_outside": 828
+  },
+  "Duisburg": {
+    "one_room_city_center": 345,
+    "one_room_outside": 315,
+    "three_rooms_city_center": 620,
+    "three_rooms_outside": 780
+  },
+  "Dusseldorf": {
+    "one_room_city_center": 694,
+    "one_room_outside": 527,
+    "three_rooms_city_center": 1452,
+    "three_rooms_outside": 1037
+  },
+  "Erfurt": {
+    "one_room_city_center": 625,
+    "one_room_outside": 450,
+    "three_rooms_city_center": 883,
+    "three_rooms_outside": 590
+  },
+  "Erlangen": {
+    "one_room_city_center": 633,
+    "one_room_outside": 472,
+    "three_rooms_city_center": 1250,
+    "three_rooms_outside": 925
+  },
+  "Essen": {
+    "one_room_city_center": 450,
+    "one_room_outside": 370,
+    "three_rooms_city_center": 885,
+    "three_rooms_outside": 771
+  },
+  "Frankfurt": {
+    "one_room_city_center": 1006,
+    "one_room_outside": 741,
+    "three_rooms_city_center": 1921,
+    "three_rooms_outside": 1314
+  },
+  "Frankfurt (Oder)": {
+    "one_room_city_center": 670,
+    "one_room_outside": 390,
+    "three_rooms_city_center": 1433,
+    "three_rooms_outside": 1100
+  },
+  "Freiburg im Breisgau": {
+    "one_room_city_center": 800,
+    "one_room_outside": 591,
+    "three_rooms_city_center": 1700,
+    "three_rooms_outside": 1141
+  },
+  "Gera": {
+    "one_room_city_center": 327,
+    "one_room_outside": 250,
+    "three_rooms_city_center": 450,
+    "three_rooms_outside": 350
+  },
+  "Giessen": {
+    "one_room_city_center": 607,
+    "one_room_outside": 400,
+    "three_rooms_city_center": 1300,
+    "three_rooms_outside": 1150
+  },
+  "Goettingen": {
+    "one_room_city_center": 500,
+    "one_room_outside": 340,
+    "three_rooms_city_center": 1160,
+    "three_rooms_outside": 800
+  },
+  "Halle": {
+    "one_room_city_center": 400,
+    "one_room_outside": 290,
+    "three_rooms_city_center": 916,
+    "three_rooms_outside": 575
+  },
+  "Hamburg": {
+    "one_room_city_center": 882,
+    "one_room_outside": 652,
+    "three_rooms_city_center": 1736,
+    "three_rooms_outside": 1241
+  },
+  "Hanover": {
+    "one_room_city_center": 633,
+    "one_room_outside": 475,
+    "three_rooms_city_center": 1076,
+    "three_rooms_outside": 868
+  },
+  "Heidelberg": {
+    "one_room_city_center": 684,
+    "one_room_outside": 507,
+    "three_rooms_city_center": 1466,
+    "three_rooms_outside": 1005
+  },
+  "Heilbronn": {
+    "one_room_city_center": 712,
+    "one_room_outside": 492,
+    "three_rooms_city_center": 1566,
+    "three_rooms_outside": 1000
+  },
+  "Hildesheim": {
+    "one_room_city_center": 633,
+    "one_room_outside": 400,
+    "three_rooms_city_center": 1000,
+    "three_rooms_outside": 625
+  },
+  "Ingolstadt": {
+    "one_room_city_center": 737,
+    "one_room_outside": 628,
+    "three_rooms_city_center": 1520,
+    "three_rooms_outside": 1212
+  },
+  "Jena": {
+    "one_room_city_center": 506,
+    "one_room_outside": 325,
+    "three_rooms_city_center": 1350,
+    "three_rooms_outside": 900
+  },
+  "Kaiserslautern": {
+    "one_room_city_center": 395,
+    "one_room_outside": 333,
+    "three_rooms_city_center": 833,
+    "three_rooms_outside": 850
+  },
+  "Karlsruhe": {
+    "one_room_city_center": 589,
+    "one_room_outside": 460,
+    "three_rooms_city_center": 1226,
+    "three_rooms_outside": 888
+  },
+  "Kassel": {
+    "one_room_city_center": 644,
+    "one_room_outside": 575,
+    "three_rooms_city_center": 1375,
+    "three_rooms_outside": 833
+  },
+  "Kiel": {
+    "one_room_city_center": 516,
+    "one_room_outside": 446,
+    "three_rooms_city_center": 1096,
+    "three_rooms_outside": 816
+  },
+  "Koblenz": {
+    "one_room_city_center": 650,
+    "one_room_outside": 510,
+    "three_rooms_city_center": 1030,
+    "three_rooms_outside": 782
+  },
+  "Konstanz": {
+    "one_room_city_center": 680,
+    "one_room_outside": 514,
+    "three_rooms_city_center": 1366,
+    "three_rooms_outside": 975
+  },
+  "Krefeld": {
+    "one_room_city_center": 400,
+    "one_room_outside": 300,
+    "three_rooms_city_center": 766,
+    "three_rooms_outside": 816
+  },
+  "Landshut": {
+    "one_room_city_center": 1000,
+    "one_room_outside": 750,
+    "three_rooms_city_center": 1383,
+    "three_rooms_outside": 1116
+  },
+  "Leipzig": {
+    "one_room_city_center": 512,
+    "one_room_outside": 404,
+    "three_rooms_city_center": 1010,
+    "three_rooms_outside": 768
+  },
+  "Ludwigshafen": {
+    "one_room_city_center": 478,
+    "one_room_outside": 480,
+    "three_rooms_city_center": 850,
+    "three_rooms_outside": 650
+  },
+  "L\u00fcbeck": {
+    "one_room_city_center": 533,
+    "one_room_outside": 400,
+    "three_rooms_city_center": 950,
+    "three_rooms_outside": 675
+  },
+  "Magdeburg": {
+    "one_room_city_center": 381,
+    "one_room_outside": 284,
+    "three_rooms_city_center": 930,
+    "three_rooms_outside": 610
+  },
+  "Mainz": {
+    "one_room_city_center": 786,
+    "one_room_outside": 425,
+    "three_rooms_city_center": 1600,
+    "three_rooms_outside": 1500
+  },
+  "Mannheim": {
+    "one_room_city_center": 551,
+    "one_room_outside": 438,
+    "three_rooms_city_center": 961,
+    "three_rooms_outside": 772
+  },
+  "Marburg": {
+    "one_room_city_center": 800,
+    "one_room_outside": 500,
+    "three_rooms_city_center": 1300,
+    "three_rooms_outside": 925
+  },
+  "Moenchengladbach": {
+    "one_room_city_center": 350,
+    "one_room_outside": 450,
+    "three_rooms_city_center": 750,
+    "three_rooms_outside": 1000
+  },
+  "Munich": {
+    "one_room_city_center": 1174,
+    "one_room_outside": 873,
+    "three_rooms_city_center": 2182,
+    "three_rooms_outside": 1690
+  },
+  "Munster": {
+    "one_room_city_center": 725,
+    "one_room_outside": 534,
+    "three_rooms_city_center": 1400,
+    "three_rooms_outside": 890
+  },
+  "Nuernberg": {
+    "one_room_city_center": 681,
+    "one_room_outside": 513,
+    "three_rooms_city_center": 1186,
+    "three_rooms_outside": 953
+  },
+  "Oldenburg": {
+    "one_room_city_center": 550,
+    "one_room_outside": 400,
+    "three_rooms_city_center": 1033,
+    "three_rooms_outside": 650
+  },
+  "Osnabruck": {
+    "one_room_city_center": 360,
+    "one_room_outside": 290,
+    "three_rooms_city_center": 866,
+    "three_rooms_outside": 675
+  },
+  "Paderborn": {
+    "one_room_city_center": 491,
+    "one_room_outside": 336,
+    "three_rooms_city_center": 790,
+    "three_rooms_outside": 590
+  },
+  "Passau": {
+    "one_room_city_center": 500,
+    "one_room_outside": 360,
+    "three_rooms_city_center": 950,
+    "three_rooms_outside": 750
+  },
+  "Pforzheim": {
+    "one_room_city_center": 516,
+    "one_room_outside": 410,
+    "three_rooms_city_center": 835,
+    "three_rooms_outside": 775
+  },
+  "Potsdam": {
+    "one_room_city_center": 650,
+    "one_room_outside": 566,
+    "three_rooms_city_center": 1400,
+    "three_rooms_outside": 1100
+  },
+  "Ravensburg": {
+    "one_room_city_center": 700,
+    "one_room_outside": 550,
+    "three_rooms_city_center": 1300,
+    "three_rooms_outside": 1000
+  },
+  "Regensburg": {
+    "one_room_city_center": 575,
+    "one_room_outside": 450,
+    "three_rooms_city_center": 1500,
+    "three_rooms_outside": 816
+  },
+  "Reutlingen": {
+    "one_room_city_center": 800,
+    "one_room_outside": 700,
+    "three_rooms_city_center": 1500,
+    "three_rooms_outside": 1200
+  },
+  "Rostock": {
+    "one_room_city_center": 500,
+    "one_room_outside": 300,
+    "three_rooms_city_center": 900,
+    "three_rooms_outside": 575
+  },
+  "Saarbrucken": {
+    "one_room_city_center": 450,
+    "one_room_outside": 450,
+    "three_rooms_city_center": 775,
+    "three_rooms_outside": 576
+  },
+  "Siegen": {
+    "one_room_city_center": 415,
+    "one_room_outside": 270,
+    "three_rooms_city_center": 900,
+    "three_rooms_outside": 610
+  },
+  "Solingen": {
+    "one_room_city_center": 565,
+    "one_room_outside": 475,
+    "three_rooms_city_center": 885,
+    "three_rooms_outside": 850
+  },
+  "Stuttgart": {
+    "one_room_city_center": 833,
+    "one_room_outside": 636,
+    "three_rooms_city_center": 1599,
+    "three_rooms_outside": 1233
+  },
+  "Trier": {
+    "one_room_city_center": 723,
+    "one_room_outside": 416,
+    "three_rooms_city_center": 1250,
+    "three_rooms_outside": 650
+  },
+  "Tubingen": {
+    "one_room_city_center": 583,
+    "one_room_outside": 425,
+    "three_rooms_city_center": 1185,
+    "three_rooms_outside": 1090
+  },
+  "Tuttlingen": {
+    "one_room_city_center": 450,
+    "one_room_outside": 350,
+    "three_rooms_city_center": 860,
+    "three_rooms_outside": 700
+  },
+  "Ulm": {
+    "one_room_city_center": 780,
+    "one_room_outside": 630,
+    "three_rooms_city_center": 1525,
+    "three_rooms_outside": 1200
+  },
+  "Wiesbaden": {
+    "one_room_city_center": 768,
+    "one_room_outside": 585,
+    "three_rooms_city_center": 1482,
+    "three_rooms_outside": 1140
+  },
+  "Wolfsburg": {
+    "one_room_city_center": 625,
+    "one_room_outside": 550,
+    "three_rooms_city_center": 1016,
+    "three_rooms_outside": 750
+  },
+  "Wuerzburg": {
+    "one_room_city_center": 600,
+    "one_room_outside": 475,
+    "three_rooms_city_center": 1300,
+    "three_rooms_outside": 800
+  },
+  "Wuppertal": {
+    "one_room_city_center": 370,
+    "one_room_outside": 280,
+    "three_rooms_city_center": 733,
+    "three_rooms_outside": 600
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "Berlin": {
+    "population": 3613495.0,
+    "purchasing_power_sum": 78372.2,
+    "purchasing_power_per_capita": 21689,
+    "purchasing_power_index": 91.2,
+    "unemployed_total": 168991,
+    "unemployment_rate": 9.0,
+    "crimes_committed": 511677,
+    "crime_rate": 0.14,
+    "new_apartments_rate_percent": 1.2805
+  },
+  "Hamburg": {
+    "population": 1830584.0,
+    "purchasing_power_sum": 47740.5,
+    "purchasing_power_per_capita": 26079,
+    "purchasing_power_index": 109.7,
+    "unemployed_total": 69248,
+    "unemployment_rate": 6.8,
+    "crimes_committed": 216569,
+    "crime_rate": 0.12,
+    "new_apartments_rate_percent": 1.31738
+  },
+  "Hannover": {
+    "population": 532163.0,
+    "purchasing_power_sum": "NA",
+    "purchasing_power_per_capita": 23285,
+    "purchasing_power_index": 97.9,
+    "unemployed_total": 244260,
+    "unemployment_rate": 5.8,
+    "crimes_committed": 70212,
+    "crime_rate": 0.13,
+    "new_apartments_rate_percent": 0.74298
+  },
+  "Muenchen": {
+    "population": 1456039.0,
+    "purchasing_power_sum": 46483.6,
+    "purchasing_power_per_capita": 31925,
+    "purchasing_power_index": 134.3,
+    "unemployed_total": 231353,
+    "unemployment_rate": 3.2,
+    "crimes_committed": 99802,
+    "crime_rate": 0.07,
+    "new_apartments_rate_percent": 1.17701
+  },
+  "Koeln": {
+    "population": 1080394.0,
+    "purchasing_power_sum": 27079.4,
+    "purchasing_power_per_capita": 25064,
+    "purchasing_power_index": 105.4,
+    "unemployed_total": 701219,
+    "unemployment_rate": 7.4,
+    "crimes_committed": 125349,
+    "crime_rate": 0.12,
+    "new_apartments_rate_percent": 0.58489
+  },
+  "Frankfurt": {
+    "population": 746878.0,
+    "purchasing_power_sum": 20231.7,
+    "purchasing_power_per_capita": 27088,
+    "purchasing_power_index": 113.9,
+    "unemployed_total": 166287,
+    "unemployment_rate": 5.0,
+    "crimes_committed": 117719,
+    "crime_rate": 0.16,
+    "new_apartments_rate_percent": 0.88628
+  },
+  "Stuttgart": {
+    "population": 632743.0,
+    "purchasing_power_sum": 17027.3,
+    "purchasing_power_per_capita": 26910,
+    "purchasing_power_index": 113.2,
+    "unemployed_total": 212837,
+    "unemployment_rate": 3.5,
+    "crimes_committed": 53828,
+    "crime_rate": 0.09,
+    "new_apartments_rate_percent": 0.84017
+  },
+  "Duesseldorf": {
+    "population": 617280.0,
+    "purchasing_power_sum": 17193.1,
+    "purchasing_power_per_capita": 27853,
+    "purchasing_power_index": 117.1,
+    "unemployed_total": 701219,
+    "unemployment_rate": 7.4,
+    "crimes_committed": 62734,
+    "crime_rate": 0.1,
+    "new_apartments_rate_percent": 0.58489
+  },
+  "Dortmund": {
+    "population": 586600.0,
+    "purchasing_power_sum": 12762.2,
+    "purchasing_power_per_capita": 21756,
+    "purchasing_power_index": 91.5,
+    "unemployed_total": 701219,
+    "unemployment_rate": 7.4,
+    "crimes_committed": 66327,
+    "crime_rate": 0.11,
+    "new_apartments_rate_percent": 0.58489
+  },
+  "Essen": {
+    "population": 583393.0,
+    "purchasing_power_sum": 13367.4,
+    "purchasing_power_per_capita": 22913,
+    "purchasing_power_index": 96.4,
+    "unemployed_total": 701219,
+    "unemployment_rate": 7.4,
+    "crimes_committed": 50065,
+    "crime_rate": 0.09,
+    "new_apartments_rate_percent": 0.58489
+  },
+  "Leipzig": {
+    "population": 581980.0,
+    "purchasing_power_sum": 12097.0,
+    "purchasing_power_per_capita": 20786,
+    "purchasing_power_index": 87.4,
+    "unemployed_total": 140348,
+    "unemployment_rate": 6.7,
+    "crimes_committed": 72045,
+    "crime_rate": 0.12,
+    "new_apartments_rate_percent": 0.60233
+  },
+  "Bremen": {
+    "population": 568006.0,
+    "purchasing_power_sum": 12485.4,
+    "purchasing_power_per_capita": 21981,
+    "purchasing_power_index": 92.4,
+    "unemployed_total": 35687,
+    "unemployment_rate": 10.2,
+    "crimes_committed": 62101,
+    "crime_rate": 0.11,
+    "new_apartments_rate_percent": 0.82295
+  },
+  "Dresden": {
+    "population": 551072.0,
+    "purchasing_power_sum": 11915.6,
+    "purchasing_power_per_capita": 21623,
+    "purchasing_power_index": 90.9,
+    "unemployed_total": 140348,
+    "unemployment_rate": 6.7,
+    "crimes_committed": 49152,
+    "crime_rate": 0.09,
+    "new_apartments_rate_percent": 0.60233
+  },
+  "Nuernberg": {
+    "population": 515201.0,
+    "purchasing_power_sum": 12738.7,
+    "purchasing_power_per_capita": 24726,
+    "purchasing_power_index": 104.0,
+    "unemployed_total": 231353,
+    "unemployment_rate": 3.2,
+    "crimes_committed": 42591,
+    "crime_rate": 0.08,
+    "new_apartments_rate_percent": 1.17701
+  },
+  "Deutschland": {
+    "population":82790000,
+    "purchasing_power_sum": "NA",
+    "purchasing_power_per_capita": "NA",
+    "purchasing_power_index": 100,
+    "unemployed_total": 2532837,
+    "unemployment_rate": 5.7,
+    "crimes_committed": 10620413,
+    "crime_rate": 0.12,
+    "new_apartments_rate_percent": 0.82892
+  }
+}

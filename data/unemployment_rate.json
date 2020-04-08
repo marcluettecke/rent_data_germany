@@ -1,0 +1,87 @@
+[
+    {
+        "state": "Baden-Wuerrttemberg",
+        "unemployed_total": 212837,
+        "unemployment_rate": 3.5
+    },
+    {
+        "state": "Bayern",
+        "unemployed_total": 231353,
+        "unemployment_rate": 3.2
+    },
+    {
+        "state": "Berlin",
+        "unemployed_total": 168991,
+        "unemployment_rate": 9.0
+    },
+    {
+        "state": "Brandenburg",
+        "unemployed_total": 92648,
+        "unemployment_rate": 7.0
+    },
+    {
+        "state": "Bremen",
+        "unemployed_total": 35687,
+        "unemployment_rate": 10.2
+    },
+    {
+        "state": "Hamburg",
+        "unemployed_total": 69248,
+        "unemployment_rate": 6.8
+    },
+    {
+        "state": "Hessen",
+        "unemployed_total": 166287,
+        "unemployment_rate": 5.0
+    },
+    {
+        "state": "Mecklenburg-Vorpommern",
+        "unemployed_total": 70982,
+        "unemployment_rate": 8.6
+    },
+    {
+        "state": "Niedersachsen",
+        "unemployed_total": 244260,
+        "unemployment_rate": 5.8
+    },
+    {
+        "state": "Nordrhein-Westfalen",
+        "unemployed_total": 701219,
+        "unemployment_rate": 7.4
+    },
+    {
+        "state": "Rheinland-Pfalz",
+        "unemployed_total": 106299,
+        "unemployment_rate": 4.8
+    },
+    {
+        "state": "Saarland",
+        "unemployed_total": 34672,
+        "unemployment_rate": 6.7
+    },
+    {
+        "state": "Sachsen",
+        "unemployed_total": 140348,
+        "unemployment_rate": 6.7
+    },
+    {
+        "state": "Sachsen-Anhalt",
+        "unemployed_total": 96960,
+        "unemployment_rate": 8.4
+    },
+    {
+        "state": "Schleswig-Holstein",
+        "unemployed_total": 92434,
+        "unemployment_rate": 6.0
+    },
+    {
+        "state": "Thueringen",
+        "unemployed_total": 68614,
+        "unemployment_rate": 6.1
+    },
+    {
+        "state": "Deutschland",
+        "unemployed_total": 2532837,
+        "unemployment_rate": 5.7
+    }
+]

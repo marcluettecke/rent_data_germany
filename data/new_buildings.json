@@ -1,0 +1,104 @@
+[
+  {
+    "state": "Baden-Wuerttemberg",
+    "new_apartments": 44212,
+    "existing_apartments": 5262252,
+    "new_apartments_rate_percent": 0.84017
+  },
+  {
+    "state": "Bayern",
+    "new_apartments": 74990,
+    "existing_apartments": 6371236,
+    "new_apartments_rate_percent": 1.17701
+  },
+  {
+    "state": "Berlin",
+    "new_apartments": 24743,
+    "existing_apartments": 1932296,
+    "new_apartments_rate_percent": 1.2805
+  },
+  {
+    "state": "Brandenburg",
+    "new_apartments": 16032,
+    "existing_apartments": 1320208,
+    "new_apartments_rate_percent": 1.21435
+  },
+  {
+    "state": "Bremen",
+    "new_apartments": 2946,
+    "existing_apartments": 357980,
+    "new_apartments_rate_percent": 0.82295
+  },
+  {
+    "state": "Hamburg",
+    "new_apartments": 12465,
+    "existing_apartments": 946199,
+    "new_apartments_rate_percent": 1.31738
+  },
+  {
+    "state": "Hessen",
+    "new_apartments": 26801,
+    "existing_apartments": 3023975,
+    "new_apartments_rate_percent": 0.88628
+  },
+  {
+    "state": "Mecklenburg-Vorpommern",
+    "new_apartments": 6645,
+    "existing_apartments": 904232,
+    "new_apartments_rate_percent": 0.73488
+  },
+  {
+    "state": "Niedersachsen",
+    "new_apartments": 29511,
+    "existing_apartments": 3971972,
+    "new_apartments_rate_percent": 0.74298
+  },
+  {
+    "state": "Nordrhein-Westfalen",
+    "new_apartments": 52481,
+    "existing_apartments": 8972774,
+    "new_apartments_rate_percent": 0.58489
+  },
+  {
+    "state": "Rheinland-Pfalz",
+    "new_apartments": 15661,
+    "existing_apartments": 2086792,
+    "new_apartments_rate_percent": 0.75048
+  },
+  {
+    "state": "Saarland",
+    "new_apartments": 2123,
+    "existing_apartments": 514716,
+    "new_apartments_rate_percent": 0.41246
+  },
+  {
+    "state": "Sachsen",
+    "new_apartments": 14191,
+    "existing_apartments": 2356003,
+    "new_apartments_rate_percent": 0.60233
+  },
+  {
+    "state": "Sachsen-Anhalt",
+    "new_apartments": 5241,
+    "existing_apartments": 1288127,
+    "new_apartments_rate_percent": 0.40687
+  },
+  {
+    "state": "Schleswig-Holstein",
+    "new_apartments": 14168,
+    "existing_apartments": 1478000,
+    "new_apartments_rate_percent": 0.95859
+  },
+  {
+    "state": "Thueringen",
+    "new_apartments": 5402,
+    "existing_apartments": 1181304,
+    "new_apartments_rate_percent": 0.45729
+  },
+  {
+    "state": "Deutschland",
+    "new_apartments": 347882,
+    "existing_apartments": 41968066,
+    "new_apartments_rate_percent": 0.82892
+  }
+]
